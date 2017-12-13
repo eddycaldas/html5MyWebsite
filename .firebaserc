@@ -1,6 +1,7 @@
 {
   "projects": {
     "default": "eddycaldaswebsite",
-    "eddycaldas": "eddycaldaswebsite"
+    "eddycaldas": "eddycaldaswebsite",
+    "eddycaldaswebsite": "eddycaldaswebsite"
   }
 }
